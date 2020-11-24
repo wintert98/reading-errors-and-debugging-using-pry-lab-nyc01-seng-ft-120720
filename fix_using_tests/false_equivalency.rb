@@ -28,4 +28,3 @@ def runner
  
   
 end
-get_user_input
